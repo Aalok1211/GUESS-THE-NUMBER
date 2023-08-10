@@ -1,0 +1,29 @@
+        body {
+            background-color: rgb(214, 88, 88);
+        }
+
+        #CONTAINER {
+            background: beige;
+            border: 5px solid #f1f159;
+            height: 100px;
+            height: 502px;
+            width: 835px;
+            text-align: center;
+            margin: auto;
+            color: rgb(71, 12, 126);
+            font-size: 3rem;
+        }
+
+        #OUTPUTTEXT {
+            color: rgb(71, 12, 126);
+        }
+
+        #userInput {
+            font-size: 2rem;
+            color: rgb(71, 12, 126);
+        }
+
+        #btn {
+            font-size: 2rem;
+            color: rgb(71, 12, 126);
+        }
